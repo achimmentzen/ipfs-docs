@@ -145,3 +145,4 @@ The CI/CD production workflow builds on the `main` branch and deploys the docume
 ## License
 
 All software code is copyright (c) Protocol Labs, Inc. under the **MIT license**. Other written documentation and content are copyright (c) Protocol Labs, Inc. under the [**Creative Commons Attribution-Share-Alike License**](https://creativecommons.org/licenses/by/4.0/).
+https://transparenzprojekt.netlify.app/
