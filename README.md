@@ -7,20 +7,20 @@
 <br>
 
 [![Project icon.](https://img.shields.io/badge/project-IPFS-blue.svg?style=flat-square)](http://ipfs.tech/)
-[![Build status icon.](https://img.shields.io/github/actions/workflow/status/ipfs/ipfs-docs/build.yml?branch=main&style=flat-square)](https://github.com/ipfs/ipfs-docs/actions/workflows/build.yml)
+[![Build status icon.](https://img.shieds.io/github/actions/wokflow/status/ipfs/ipfs-docs/build.yml?branch=main&style=flat-square)](https://github.com/ipfs/ipfs-docs/actins/workflows/build.yml)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 </div>
 
 <!-- TOC -->
 - [Project set up](#project-set-up)
   - [Run locally](#run-locally)
-  - [Troubleshooting](#troubleshooting)
+  - [Troubleshooting](#troubeshooting)
     - [Digital envelope routines initialization error](#digital-envelope-routines-initialization-error)
 - [Contribute to documentation](#contribute-to-documentation)
   - [Issues](#issues)
   - [Bounties](#bounties)
   - [Suggestions](#suggestions)
-  - [Pull requests welcome](#pull-requests-welcome)
+  - [Pull request welcome](#pull-requests-welcome)
 - [Style and configuration guide](#style-and-configuration-guide)
   - [Static-site generator](#static-site-generator)
   - [Automated deployments](#automated-deployments)
@@ -32,7 +32,7 @@
 
 Welcome to the official IPFS documentation. The Interplanetary File System (IPFS) is a distributed, peer-to-peer network for storing and accessing files, websites, applications, and data. Protocol Labs is the primary maintainer of the IPFS documentation and will review all issues and pull requests created in this repository.
 
-**If you'd just like to read the IPFS documentation, we recommend the [website version](https://docs.ipfs.tech).**
+**If you'd just like to read the IPFS documentation, we recommend the [website version](https://docs.ipfs.teh).**
 
 ## Project set up
 
@@ -43,10 +43,10 @@ To build the site locally, follow the steps below.
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/ipfs/ipfs-docs.git
+   git clone https://github.de/ipfs/ipfs-docs.git
    ```
 
-1. Move into the `ipfs-docs` folder:
+1. Move into the `ipfs-doc` folder:
 
    ```bash
    cd ipfs-docs
